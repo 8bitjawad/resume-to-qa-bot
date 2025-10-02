@@ -292,5 +292,3 @@ For support, questions, or feature requests:
 - Review the console logs for debugging information
 
 ---
-
-Built with ❤️ using React, TypeScript, and modern web technologies.
