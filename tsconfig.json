@@ -11,6 +11,8 @@
     "skipLibCheck": true,
     "allowJs": true,
     "noUnusedLocals": false,
-    "strictNullChecks": false
+    "strictNullChecks": false,
+    "typeRoots": ["./node_modules/@types", "./supabase/functions"],
+    "types": ["./supabase/functions/deno.types.d.ts"]
   }
 }
